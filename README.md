@@ -5,9 +5,7 @@
 <div align="center">
 
 [![HTML](https://img.shields.io/badge/html-red.svg)]()
-
 [![CSS](https://img.shields.io/badge/css-green.svg)]()
-
 [![Javascript](https://img.shields.io/badge/expressjs-orange.svg)](https://www.javascript.com/)
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -79,7 +77,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-[![JS: Password Generator](./assets/images/googlebooks-app-demo-01.gif)](https://github.com/xndroli/password-generator/)
+[![JS: Password Generator](./assets/images/passwordGenerator-demo.png)](https://github.com/xndroli/password-generator/)
 
 [Link to Deployed Application]()
 
