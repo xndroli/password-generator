@@ -23,7 +23,7 @@ This week I will create an application that an employee can use to generate a ra
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
-[Link to Deployed Application]()
+[Link to Deployed Application](https://xndroli.github.io/password-generator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ The following image shows the web application's appearance and functionality:
 
 [![JS: Password Generator](./assets/images/passwordGenerator-demo.png)](https://github.com/xndroli/password-generator/)
 
-[Link to Deployed Application]()
+[Link to Deployed Application](https://xndroli.github.io/password-generator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
